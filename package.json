@@ -1,0 +1,23 @@
+{
+  "name": "ci-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harissis/ci-node-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harissis/ci-node-example/issues"
+  },
+  "homepage": "https://github.com/Harissis/ci-node-example#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
